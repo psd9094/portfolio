@@ -1923,7 +1923,7 @@ a:focus {
     width: 50%
 }
 
-.resumo_fn_contact .contact_form button {
+.resumo_fn_contact .contact_form a {
     display: block;
     line-height: 26px;
     white-space: nowrap;
@@ -1939,7 +1939,7 @@ a:focus {
     border: 2px solid rgba(255, 255, 255, .2)
 }
 
-.resumo_fn_contact .contact_form button:hover {
+.resumo_fn_contact .contact_form a:hover {
     border-color: var(--mc);
     color: var(--mc)
 }
